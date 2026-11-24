@@ -6,10 +6,6 @@
 <h1 align="center">MatthewSec</h1>
 
 <p align="center">
-  <b>Think. Research. Exploit.</b>
-</p>
-
-<p align="center">
   Ethical Hacking | Web Application Security | Vulnerability Research
 </p>
 
@@ -29,7 +25,7 @@ security research, projects and practical learning.
 
 ## Certifications
 
-- eJPTv2 — INE Security
+- eJPTv2 — INE Security 
 
 ## Technical Skills
 
@@ -39,7 +35,6 @@ security research, projects and practical learning.
 | Security Tools | Burp Suite Professional, Nmap |
 | Programming | Python (Fundamentals), Bash (Learning) |
 | Databases | SQL |
-| Web Security | OWASP Top 10, Web Pentesting |
 
 ## Areas of Interest
 
@@ -67,7 +62,3 @@ All security research and testing activities are
 conducted in authorized environments and laboratories.
 
 ---
-
-<p align="center">
-  <i>Learning. Researching. Building.</i>
-</p>
